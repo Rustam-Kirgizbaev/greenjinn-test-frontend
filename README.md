@@ -50,16 +50,16 @@ npm run dev
 
 ## Folder Structure
 
-├── public/ # Static files like images, icons, etc.
-├── src/ # Main source code
-│ ├── app/ # Next.js pages and routing
-│ ├── common/ # Shared utilities, interfaces, constants, etc.
-│ ├── components/ # Reusable UI components
-│ ├── lib/ # helper functions, and external libraries
-├── test/ # Unit and integration tests
-├── .env # Environment variables
-├── package.json # Project dependencies and scripts
-└── README.md # Project documentation
+├── public/ # Static files like images, icons, etc.\
+├── src/ # Main source code\
+│ ├── app/ # Next.js pages and routing\
+│ ├── common/ # Shared utilities, interfaces, constants, etc.\
+│ ├── components/ # Reusable UI components\
+│ ├── lib/ # helper functions, and external libraries\
+├── test/ # Unit and integration tests\
+├── .env # Environment variables\
+├── package.json # Project dependencies and scripts\
+└── README.md # Project documentation\
 
 ## Acknowledgements
 
